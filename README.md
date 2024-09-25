@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stasznik192
+- 👋 Hi, I’m @stanrit
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning python, SQL
 - 💞️ I’m looking to collaborate on ...
